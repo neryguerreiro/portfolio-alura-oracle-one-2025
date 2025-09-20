@@ -26,7 +26,6 @@ body {
 .cabecalho__menu {
   display: flex;
   gap: 80px;
-  border: 1px solid red;
 }
 .cabecalho__menu__link {
   font-family: var(--fonte-secundaria);
@@ -41,7 +40,6 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 82px;
-  border: 1px solid var(--cor-terciaria);
   border-radius: 8px;
 }
 .apresentacao__conteudo {
@@ -49,7 +47,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 40px;
-  border: 1px solid yellow;
 }
 
 .apresentacao__conteudo__titulo {
@@ -80,7 +77,6 @@ body {
   display: flex;
   justify-content: center;
   gap: 16px;
-  border: 2px solid var(--cor-terciaria);
   width: 50%;
   text-align: center;
   border-radius: 8px;
